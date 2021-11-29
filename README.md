@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @James-k1
-- 👀 I’m interested in ... nothing
-- 🌱 I’m currently learning ... nothing
-- 💞️ I’m looking to collaborate on ... nothing
+- 👀 I’m interested in ... Nothing
+- 🌱 I’m currently learning ... Nothing
+- 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... don't
 
 <!---
